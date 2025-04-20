@@ -8,3 +8,6 @@ print("Aprendendo a Linguagem Python")
 idade = 45
 print(idade)
 # Variáveis
+
+nome = "Lucas"
+print(nome)
