@@ -6,7 +6,7 @@ print("Aprendendo a Linguagem Python")
     divertido
 """
 idade = 45
-print(idade)
+print(Ola , idade)
 # Variáveis
 
 nome = "Lucas"
